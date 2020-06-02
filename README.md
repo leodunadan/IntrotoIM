@@ -1,4 +1,6 @@
-# June2
+# Intro to IM Assignments
+
+### June 2
 
 I wanted to make a backround of moving circles and a bouncing circle on top, but after experimenting with that I found it too difficult to look and and decided to make them static. 
 
