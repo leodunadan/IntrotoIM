@@ -14,8 +14,15 @@ I got the idea for my artwork from one of Daniel's video about functions where h
 I faced a lot of challenges. I havent actually used processing before, and I find coding in general quite challenging. I watched Daniel's videos on functions and OOP and then watched them again trying to understand exactly what he is doing and how it works and what each line is doing. I then went back to the examples we did in class and tried to do it on my own without looking to see if I understood it. I then tried to write my own twist on it and use the code to write something that I want it to do, but that took me a very long time. I then tried to debug it and understand what I did wrong. 
 
 ### June 7
+##### Data Visualisation
 I wanted to display the data in an abstact bar shart, abstract because the bars don't represent direct values but rather scaled down to look best aesthetically. I was aiming for something minimalistic so I opted for black bars on a white background. 
 It was challenging to me because I was still trying to wrap my head around how processing works, but I'm quite happy with how it looks.
 ![](Images/june7.JPG)
-
 The data is taken from https://www.ndbc.noaa.gov
+##### Transformation
+I used my artwork from June2 to repurpose for use with trsnformation. I spent a lot of time experimenting with different transformations and trying to undertsnad how they were affecting the drawing until I arrived to three patterns that I found to be the most interesting visually and decided to have them as a sort of series of artworks. The most challenginf part with this assignemt for me was understanding how the transformation was actually affecting the visual image. 
+![](Images/transformation.JPG)
+![](Images/transformation2.JPG)
+![](Images/transformation3.JPG)
+
+
