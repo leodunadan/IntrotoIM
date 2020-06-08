@@ -25,4 +25,10 @@ I used my artwork from June2 to repurpose for use with transformation. I spent a
 ![](Images/transformation2.JPG)
 ![](Images/transformation3.JPG)
 
+### June 7
+
+I wanted to have an image that you can edit by drawing on it. I used the picture of a drawing and set it up such that you can draw on it by clicking down the mouse. 
+
+##### Challenges
+I wanted to be able to pick the colour from the spot where you clicked the mouse to draw with that colour, but the line always ended up grey and I still wasn't able to understand why it was doing that. So I decided to go back on that and simply use one colour to draw. 
 
