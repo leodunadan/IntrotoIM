@@ -25,7 +25,7 @@ I used my artwork from June2 to repurpose for use with transformation. I spent a
 ![](Images/transformation2.JPG)
 ![](Images/transformation3.JPG)
 
-### June 7
+### June 8
 
 I wanted to have an image that you can edit by drawing on it. I used the picture of a drawing and set it up such that you can draw on it by clicking down the mouse. 
 
