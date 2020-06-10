@@ -38,6 +38,10 @@ I was inspired by one of Daniel's videos in which he did a coding challenge and 
 I wanted to create something similar but where the platform is moving instead of stationary and the score is based on how long you have been able to keep the ball afloat. But just using a ball seemed boring to me, and so I decided to add a story into the game and use a drawing of a diver that I did a while back. Essentially, you have a diver in the blue sea and your job is to keep him from getting to the bottom of the screen and sinking. 
 You use your mouse to move the platform. 
 
+![](Images/midterm1.JPG)
+![](Images/midterm2.JPG)
+![](Images/midterm3.JPG)
+
 ##### Process and Challenges
 
 So far, Processing has been extrmely challenging and I consistently felt behind in the class because everyone seemed to make things that were much more elaborate than mine, but it took me a lot of time and effort to understand the basic concepts. I wasn't sure if I would be able to carry out the idea that I had in mind. I was woking off the simple concept of a bouncing ball that we did in class and expanding on it. And quite honestly, I felt scared of the midterm. I started off by watching Daniel's videos on concept vaguely similar to what I wanted to do, and then building up slowly from there and piece things together. I made the platform and the diver, but I had no idea whatsoever on how to make a timer. I googled and reserched and tried to understand things and after countless hours I finally made it work. There are a few lines of code there for the timer that I do not still completely understand (after a lot of trial and error they just worked), but other than that I knew what I was doing. And that was the biggest challenge - actually UNDERSTANDING what going on. This was honestly a gigantic step for me and I didnt think I could do it... but two all nighters later I am proud to say that it works. 
