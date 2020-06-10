@@ -32,3 +32,26 @@ I wanted to have an image that you can edit by drawing on it. I used the picture
 ##### Challenges
 I wanted to be able to pick the colour from the spot where you clicked the mouse to draw with that colour, but the line always ended up grey and I still wasn't able to understand why it was doing that. So I decided to go back on that and simply use one colour to draw. 
 
+### June 10 - Midterm
+
+I was inspired by one of Daniel's videos in which he did a coding challenge and made a game of pong. 
+I wanted to create something similar but where the platform is moving instead of stationary and the score is based on how long you have been able to keep the ball afloat. But just using a ball seemed boring to me, and so I decided to add a story into the game and use a drawing of a diver that I did a while back. Essentially, you have a diver in the blue sea and your job is to keep him from getting to the bottom of the screen and sinking. 
+You use your mouse to move the platform. 
+
+##### Process and Challenges
+
+So far, Processing has been extrmely challenging and I consistently felt behind in the class because everyone seemed to make things that were much more elaborate than mine, but it took me a lot of time and effort to understand the basic concepts. I wasn't sure if I would be able to carry out the idea that I had in mind. I was woking off the simple concept of a bouncing ball that we did in class and expanding on it. And quite honestly, I felt scared of the midterm. I started off by watching Daniel's videos on concept vaguely similar to what I wanted to do, and then building up slowly from there and piece things together. I made the platform and the diver, but I had no idea whatsoever on how to make a timer. I googled and reserched and tried to understand things and after countless hours I finally made it work. There are a few lines of code there for the timer that I do not still completely understand (after a lot of trial and error they just worked), but other than that I knew what I was doing. And that was the biggest challenge - actually UNDERSTANDING what going on. This was honestly a gigantic step for me and I didnt think I could do it... but two all nighters later I am proud to say that it works. 
+
+The one thing that I didnt accomplish from what I originally intended is that I wanted to be able to restart the game after you lost without having to quit the game and run the code again, but because I ran out of time I didnt manage to find a way to restart the timer. But I am still incredibly proud of what I did. 
+
+##### Inspirations and Tutorials
+
+These are some of the resorces that I used. These are the major ones that helped me, but Ive also referred to a lot of refferences and tutorials on processing.org (too many to list) and there might be something else that I missed because I closed the tab without taking down the link first.
+
+https://www.youtube.com/watch?v=IIrC5Qcb2G4
+https://www.youtube.com/watch?v=c8sc_w-g3-A
+https://stackoverflow.com/questions/12417937/create-a-simple-countdown-in-processing
+https://www.youtube.com/watch?v=UvSjtiW-RH8
+https://www.youtube.com/watch?v=7BoJBYh16CQ
+https://forum.processing.org/two/discussion/11161/pong-game
+https://www.toptal.com/game/ultimate-guide-to-processing-simple-game
