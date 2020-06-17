@@ -64,17 +64,23 @@ https://www.toptal.com/game/ultimate-guide-to-processing-simple-game
 
 I wanted to understand the concepts behind what we did in class, so I decided to use the example that we did with using a button to turn on the LED and built on it by adding a potentiometer to control that brighness of that LED. 
 
+![](Images/im.JPG)
+![](Images/im2.JPG)
+
+
 ##### Challenges
 
-I didnt actually get to run or test my code becuase I kept getting a port error that wasnt solved by restarting my computer that only got solved in class with help from Jack. 
+I didnt actually get to run or test my code becuase I kept getting a port error that wasnt solved by restarting my computer that only got solved in class with help from Jack. Even though I have previously dran schematics in one of my classes, I was a little unsure about this one.
 
 ### June 17
 
-I decided to make a birthday party machine. I used to buzzer to play "happy birthday" on the press of a button and then added a potentiometer to move a servo with a bow on it (for the aesthetics haha). The code for this is rather simple, but for me, the main idea behind using an example potentiometer code was that I wanted to get it to work at the same time with the song playing, and a simple code would help me focus on learnign blink without delay.
+I decided to make a birthday party machine. I used to buzzer to play "happy birthday" on the press of a button and then added a potentiometer to move a servo with a bow on it (for the aesthetics haha). The code for this is rather simple, but for me, the main idea behind using an example potentiometer code was that I wanted to get it to work at the same time with the song playing, and a simple code would help me focus on learning blink without delay.
+
+![](Images/im3.JPG)
 
 ##### Challenges
 
-I went through the tutorials, but couldnt make it work in my own code. For the purposes of submitting a working assignment I went back to the simple code that does either one or the other. 
+I went through the tutorials, but couldnt make it work in my own code. I was running out of time and for the purposes of submitting a working assignment I went back to the simple code that does either one or the other. 
 
 
 
