@@ -76,7 +76,6 @@ I didnt actually get to run or test my code becuase I kept getting a port error 
 
 I decided to make a birthday party machine. I used to buzzer to play "happy birthday" on the press of a button and then added a potentiometer to move a servo with a bow on it (for the aesthetics haha). The code for this is rather simple, but for me, the main idea behind using an example potentiometer code was that I wanted to get it to work at the same time with the song playing, and a simple code would help me focus on learning blink without delay.
 
-![](Images/im3.JPG)
 
 ##### Challenges
 
