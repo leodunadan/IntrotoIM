@@ -82,5 +82,7 @@ I decided to make a birthday party machine. I used to buzzer to play "happy birt
 
 I went through the tutorials, but couldnt make it work in my own code. I was running out of time and for the purposes of submitting a working assignment I went back to the simple code that does either one or the other. 
 
+##### Resources
 
+I used this tutorial for the "Happy Birthday" music notes https://create.arduino.cc/projecthub/jsheng/happy-birthday-lights-and-sounds-1745cd
 
