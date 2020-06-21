@@ -26,9 +26,9 @@ import processing.serial.*;
 Serial port;
 
 //Leo El-azhab
-//June 10 - Midterm
+//June 21
 //This is a game where you have to keep the diver from sinking for as long as you can
-//Instructions: Use your mouse to move the racket to keep the diver from sinking 
+//Instructions: Move your hand over the photoresisitor to control the diver 
 
 void setup() {
   size(1000, 1000);
