@@ -1,4 +1,5 @@
 # Intro to IM Assignments
+## Here you have find documentation for ALL of my assignemnts 
 
 ### June 2
 
@@ -99,7 +100,7 @@ My port keot working on and off and I couldnt find the reason for why it couldnt
 ##### Photos
 
 ![](Images/im4.jpg)
-![](Images/im5.jpg)
+![](Images/im5.JPG)
 
 
 ##### Resources
