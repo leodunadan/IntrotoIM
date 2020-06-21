@@ -89,7 +89,7 @@ I used this tutorial for the "Happy Birthday" music notes https://create.arduino
 
 ### June 21
 
-I am posting this now (after class) because I was hoping that i could sort out the port issue by now and I could write about how satisfying it was to get my project to work, but unfortunately that didnt happen. 
+I am posting the documentation now (after class) because I was hoping that i could sort out the port issue by now and I could write about how satisfying it was to get my project to work, but unfortunately that didnt happen. (I have posted the code yesterday into the June 21 folder).
 
 I wanted to build on my diver game that I made for the midterm to use with an arduino controlled mechanics. My goal was to understand how the communication works so I went with something simple. I wanted to use a photoresistor to control the up and down motion of the diver, whther he does up and down would be dependent on the values coming from the photoresistor and your goal is to not let the diver drop. His horizontal position is fixed though, and he would only be moving up and down in this version of the game. The rest stays the same though - if he sinks down you lose and the longer you manage to keep him afloat the more points you get. 
 
