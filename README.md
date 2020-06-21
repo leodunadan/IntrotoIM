@@ -86,3 +86,26 @@ I went through the tutorials, but couldnt make it work in my own code. I was run
 
 I used this tutorial for the "Happy Birthday" music notes https://create.arduino.cc/projecthub/jsheng/happy-birthday-lights-and-sounds-1745cd
 
+### June 21
+
+I am posting this now (after class) because I was hoping that i could sort out the port issue by now and I could write about how satisfying it was to get my project to work, but unfortunately that didnt happen. 
+
+I wanted to build on my diver game that I made for the midterm to use with an arduino controlled mechanics. My goal was to understand how the communication works so I went with something simple. I wanted to use a photoresistor to control the up and down motion of the diver, whther he does up and down would be dependent on the values coming from the photoresistor and your goal is to not let the diver drop. His horizontal position is fixed though, and he would only be moving up and down in this version of the game. The rest stays the same though - if he sinks down you lose and the longer you manage to keep him afloat the more points you get. 
+
+##### Challenges
+
+My port keot working on and off and I couldnt find the reason for why it couldnt work so i didnt get the chance to test my project. I wrote the code based on what I thought it should be doing but it lacks the component of "oh this is not doing what I want it to do so I should try something else". So I'm not actually sure if my project works and I feel very unconfident with the whole concept of communication becasue I'm not sure if I got it right. 
+
+##### Photos
+
+![](Images/im4.jpg)
+![](Images/im5.jpg)
+
+
+##### Resources
+
+These are some of the additional tutorials I watched while working on my project:
+
+https://www.youtube.com/watch?v=g0pSfyXOXj8
+https://www.youtube.com/watch?v=rOUBr6Nmzec
+https://arduinobasics.blogspot.com/2012/06/jumper-arduino-controlled-animation.html
