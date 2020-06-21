@@ -1,5 +1,5 @@
 # Intro to IM Assignments
-## Here you have find documentation for ALL of my assignemnts 
+## Here you can find documentation for ALL of my assignemnts 
 
 ### June 2
 
