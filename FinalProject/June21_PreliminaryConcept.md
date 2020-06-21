@@ -1,1 +1,1 @@
-
+I want to make a game building up on my midterm. I would add bubbles that the driver can use to stay afload and add a health bar. I want to make the diver itself controllable by push buttons or maybe a potentiometer.
