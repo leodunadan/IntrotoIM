@@ -21,4 +21,4 @@ I want to make a more elaborate game building uo on my midterm. The game involve
 
 ##### Schematic
 
-![](IntrotoIM/Images/im6.JPG)
+![](../Images/im6.JPG)
