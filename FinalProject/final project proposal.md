@@ -20,3 +20,5 @@ I want to make a more elaborate game building uo on my midterm. The game involve
 - determine when the driver gets too low and send this information to Arduino
 
 ##### Schematic
+
+![](Images/im6.JPG)
