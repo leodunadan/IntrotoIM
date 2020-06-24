@@ -28,7 +28,9 @@ I ended up not adding any more visuals to the game because I was running out of 
 
 During the presengations today I felt a like I was behind everyone else because it seemed like everyone else's projects were a lot more elborate, but I think I am still proud of where I got given that I've had no prior experince with Processing (eventhough I learned about Arduino in Machine Lab). I like my game, but I just really want it to work.
 
-###### Schematic and Circuit
+##### Schematic and Circuit
+![](im6.JPG)
+![](im7.JPG)
 
 ##### Resources and references 
 
