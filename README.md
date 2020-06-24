@@ -110,3 +110,9 @@ These are some of the additional tutorials I watched while working on my project
 https://www.youtube.com/watch?v=g0pSfyXOXj8
 https://www.youtube.com/watch?v=rOUBr6Nmzec
 https://arduinobasics.blogspot.com/2012/06/jumper-arduino-controlled-animation.html
+
+
+### Final Project 
+
+Documentaton can be found on a .md file in the folder called FinalProject
+https://github.com/leodunadan/IntrotoIM/blob/master/FinalProject/finalProjectDocumentation.md
