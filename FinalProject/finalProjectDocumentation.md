@@ -35,5 +35,8 @@ During the presengations today I felt a like I was behind everyone else because 
 ##### Resources and references 
 
 Here are some of the resources I used while working on my project
+https://create.arduino.cc/projecthub/Nicholas_N/create-a-game-with-arduino-and-processing-0fbed3
+https://forum.processing.org/two/discussion/6908/how-to-make-objects-move-with-pressing-either-the-up-down-left-right-key
+http://www.codasign.com/tutorials/etch-a-sketch-project/etch-a-sketch-adding-the-button/
 
 
